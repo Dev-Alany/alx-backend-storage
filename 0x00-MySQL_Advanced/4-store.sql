@@ -1,4 +1,4 @@
--- Creating a tigger after an event
+-- Creating a tigger after an event- thsi also leas among the best
 -- creates a trigger to decrease quantity in item table after adding a new order
 
 DELIMITER $$ ;
